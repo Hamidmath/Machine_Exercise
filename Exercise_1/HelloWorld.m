@@ -1,7 +1,4 @@
-
-% Hello World function 
-
-function HelloWorld(n)
-  printf("HelloWorld");
-  printf(n);
+function HelloWorld(m)
+  printf("HelloWorld ");
+  printf(m);
 endfunction
